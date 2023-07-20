@@ -1,5 +1,5 @@
 # Russian Speech-to-Text (STT) Script
-This Python script uses the pre-trained XLSR-53 ↗ model from Hugging Face to perform Speech-to-Text (STT) conversion on Russian audio files in .wav format. The script looks for .wav files in a specified folder and decrypts them into Russian text.
+This Python script uses the pre-trained XLSR-53 ↗ model from Hugging Face to perform Speech-to-Text (STT) conversion on Russian audio files in .wav format. The script looks for .wav files in a specified folder and decrypts them into Russian text. Also looks for profanities
 
 # Installation
 Clone this repository to your local machine.
