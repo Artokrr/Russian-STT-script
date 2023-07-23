@@ -6,7 +6,7 @@ Clone this repository to your local machine.
 Install the required dependencies by running ```pip install -r requirements.txt.```
 
 # Usage
-Run the script using python speech_recognition.py.
+Run the script using ```python speech_recognition.py.```
 Place your .wav files in the config/voice_chat_records folder.
 The script will output the transcriptions of the audio files in the console.
 # License
